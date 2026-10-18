@@ -230,6 +230,8 @@ ORDER BY month_no;
 - The top ** 11 pizzas** bring in 80% of the revenue.
 - **The Greek Pizza** has high revenue but low quantity, so it is a premium item worth promoting.
 
+## ER Diagrame
+<img width="522" height="475" alt="er" src="https://github.com/user-attachments/assets/98e5e3d6-31df-4009-a3b5-66e1886ca5ba" />
 
 # ⚠️ Limitations
 
